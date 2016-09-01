@@ -1,0 +1,10 @@
+{
+	"_type": "UMLUseCaseDiagram",
+	"_id": "AAAAAAFW5ixx3HrVmT8=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Estorno",
+	"visible": true,
+	"defaultDiagram": false
+}

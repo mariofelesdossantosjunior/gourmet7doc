@@ -1,0 +1,25 @@
+{
+	"_type": "LabelView",
+	"_id": "AAAAAAFW5iy71nrfFL4=",
+	"_parent": {
+		"$ref": "AAAAAAFW5iy71nrdMvk="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;1",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": 109,
+	"top": 125,
+	"width": 40,
+	"height": 13,
+	"autoResize": false,
+	"underline": false,
+	"text": "Actor1",
+	"horizontalAlignment": 2,
+	"verticalAlignment": 5
+}
