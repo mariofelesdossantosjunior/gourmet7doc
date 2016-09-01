@@ -1,0 +1,10 @@
+{
+	"_type": "UMLUseCaseDiagram",
+	"_id": "AAAAAAFW5hc1QMCntBM=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Busca Comanda",
+	"visible": true,
+	"defaultDiagram": false
+}
